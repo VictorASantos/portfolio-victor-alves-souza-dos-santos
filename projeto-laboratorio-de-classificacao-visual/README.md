@@ -6,9 +6,8 @@
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
 ![Ethics in AI](https://img.shields.io/badge/Ethics_in_AI-00C853?style=for-the-badge&logo=openai&logoColor=white)
 
-> **Instituição:** Universidade — Atividade Avaliativa 1 (AT1)
-> **Aluno:** Victor Alves Souza dos Santos — RGM: 1734696466
-> **Disciplina:** Inteligência Artificial / Ética em IA
+> **Aluno:** Victor Alves Souza dos Santos
+> **Disciplina:** Fundamentos de Inteligência Artificial
 
 ---
 
