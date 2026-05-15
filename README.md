@@ -2,11 +2,15 @@
 
 # Victor Alves Souza dos Santos
 
+  
   <a href="https://www.linkedin.com/in/victor-alves-souza-dos-santos-91607922a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:victor.alvesss03@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://github.com/VictorASantos/portfolio-victor-alves-souza-dos-santos/blob/main/CV/CV-Victor%20Alves%20Souza%20dos%20Santos.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Currículo">
   </a>
   <img src="https://komarev.com/ghpvc/?username=VictorASantos&style=for-the-badge&color=0077B5" alt="Profile Views">
 
