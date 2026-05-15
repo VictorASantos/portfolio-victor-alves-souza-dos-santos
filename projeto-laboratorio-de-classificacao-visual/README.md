@@ -71,6 +71,8 @@ O modelo classificou uma mulher sentada em frente a um ambiente de trabalho como
 
 Mesmo ao testar com imagens de **homens** — grupo que compôs a classe "Perfil Liderança" no treinamento — o modelo atribuiu **99% de confiança ao Perfil Operacional**, evidenciando que fatores como roupa informal e postura não-convencional sobrepõem o gênero na lógica do algoritmo.
 
+<img width="378" height="394" alt="image" src="https://github.com/user-attachments/assets/9c07a2b0-0dc5-4e91-b9db-1f52f32b17fb" />
+
 > _Figura 2 (esquerda): Homem classificado como "Perfil Operacional" com 99% de confiança._
 > _Figura 2 (direita): Segundo homem também classificado como "Perfil Operacional", reforçando o padrão de erro._
 
