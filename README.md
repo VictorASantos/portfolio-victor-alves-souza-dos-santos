@@ -95,9 +95,7 @@ victor = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorASantos&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorASantos&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorASantos&theme=blueberry-duo&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
