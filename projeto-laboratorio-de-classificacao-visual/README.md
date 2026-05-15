@@ -61,7 +61,8 @@ O modelo foi treinado com critérios **intencionalmente estereotipados**:
 
 O modelo classificou uma mulher sentada em frente a um ambiente de trabalho como **"Perfil Operacional"** com altíssima confiança, mesmo que a indivídua pudesse ocupar qualquer cargo profissional. A barra de saída confirma que o modelo ignorou completamente qualquer indicador de competência real e baseou a inferência exclusivamente em padrões visuais superficiais.
 
-> _Figura 1: Mulher classificada como "Perfil Operacional" — modelo não reconhece liderança fora do padrão treinado._
+> _Figura 1: <img width="214" height="338" alt="image" src="https://github.com/user-attachments/assets/247d4dd0-928a-411c-a9c5-ef6e01d7dc4f" />
+ Mulher classificada como "Perfil Operacional" — modelo não reconhece liderança fora do padrão treinado._
 
 ---
 
@@ -107,3 +108,5 @@ A responsabilidade ética na construção de sistemas de IA começa na curadoria
 ---
 
 *Projeto desenvolvido para fins exclusivamente acadêmicos, com objetivo de ilustrar e criticar mecanismos de viés em sistemas de Inteligência Artificial.*
+---
+[Voltar ao início](https://github.com/VictorASantos/portfolio-victor-alves-souza-dos-santos)
