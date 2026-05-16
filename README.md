@@ -1,6 +1,6 @@
 <div align="center">
 
-# Victor Alves Souza dos Santos
+<img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=0:4B6CB7,100:182848&text=Victor%20Alves%20Souza%20dos%20Santos&section=footer&reversal=true&textBg=false&descAlign=60&fontSize=50&fontAlignY=50&fontColor=ffffff" width="100%"/>
 
   
   <a href="https://www.linkedin.com/in/victor-alves-souza-dos-santos-91607922a/" target="_blank">
@@ -16,7 +16,12 @@
 
 <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=0077B5&center=true&vCenter=true&multiline=true&width=750&height=80&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%F0%9F%96%A5%EF%B8%8F;Python+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+IA+Aplicada+%F0%9F%A4%96" alt="Typing SVG"/>
+ <div align="center">
+  <p>
+    <strong>Estudante de Ciência da Computação 🖥️</strong><br/>
+    Python · Java · TypeScript · SQL · IA Aplicada 🤖
+  </p>
+</div>
 
 </div>
 
@@ -24,27 +29,35 @@
 
 ## 👨‍💻 Sobre mim
 
-```python
-victor = {
-    "nome":      "Victor Alves Souza dos Santos",
-    "curso":     "Bacharelado em Ciência da Computação",
-    "location":  "São Paulo, SP 🇧🇷",
+```bash
+const victor = {
+  role:      "Estudante de Ciência da Computação",
+  location:  "São Paulo, SP 🇧🇷",
+  education: "Ciência da Computação — UNICID (2023–2026)",
+  periodo:   "7º Período",
 
-    "stack": {
-        "linguagens":  ["Python", "Java", "TypeScript", "C/C++"],
-        "web":         ["HTML", "CSS", "JavaScript"],
-        "banco_dados": ["SQL", "MySQL", "PostgreSQL"],
-        "ia_dados":    ["Pandas", "Scikit-Learn", "Visão Computacional"],
-        "devops":      ["Git", "GitHub", "Firebase"],
-    },
+  experiencia: [
+    "Estagiário em Educação Tecnológica — Instituto Ecotech",
+    "Auxiliar de Analista de Crédito — ACRESP",
+  ],
 
-    "soft_skills":    ["Trabalho em equipe", "Comunicação assertiva", "Pensamento crítico"],
-    "foco_atual":     "Inteligência Artificial aplicada & Desenvolvimento Full-Stack",
-    "open_to":        "Estágios & Projetos de iniciação científica",
+  stack: {
+    linguagens: ["Python", "Java", "TypeScript", "C/C++"],
+    web:        ["HTML", "CSS", "JavaScript"],
+    dados:      ["SQL", "MySQL"],
+    devops:     ["Git", "GitHub", "Firebase"],
+  },
+
+  foco_atual: "IA Aplicada & Back-end",
+  open_to:    "Estágios",
 }
 ```
 
-> Apaixonado por transformar problemas reais em soluções tecnológicas. Ao longo da graduação desenvolvi projetos que exploram **visão computacional**, **engenharia reversa assistida por IA** e **desenvolvimento de produtos digitais**, sempre com foco em impacto prático e aprendizado contínuo.
+Estudante de Ciência da Computação no 7º período da UNICID, com interesse em Back-end, Inteligência Artificial aplicada e Engenharia de Software. Possui experiência em educação tecnológica por meio do projeto TechGirls – Mulheres & Tecnologia, além de atuação na área de operações de crédito da ACRESP.
+
+Durante a graduação, vem desenvolvendo projetos acadêmicos e práticos envolvendo visão computacional, engenharia reversa assistida por IA e produtos digitais, consolidando conhecimentos em Python, Java, TypeScript, SQL e desenvolvimento de aplicações.
+
+Tem como foco o aprendizado contínuo, a construção de soluções tecnológicas com impacto prático e a evolução constante tanto em competências técnicas quanto profissionais.
 
 ---
 
@@ -63,16 +76,16 @@ victor = {
 
 #### 🗄️ Banco de Dados
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </p>
 
 #### 🤖 Inteligência Artificial & Ciência de Dados
 <p>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Visão%20Computacional-FF6F00?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
+  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white">
 </p>
 
 #### 🔧 Ferramentas & DevOps
